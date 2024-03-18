@@ -21,7 +21,7 @@
 
 |                       신지훈                        |                  성연석                   |                    이우철                     |
 | :-------------------------------------------------: | :---------------------------------------: | :-------------------------------------------: |
-| [wlgns1718@naver.com](https://github.com/wlgns1718) | [@abcd9351](https://github.com/Yeon-seok) | [lwc421@gmail.com](https://github.com/LWC421) |
+| [wlgns1718@naver.com](https://github.com/wlgns1718) | [abcd9351@naver.com](https://github.com/Yeon-seok) | [lwc421@gmail.com](https://github.com/LWC421) |
 |                       BackEnd                       |                  BackEnd                  |                    BackEnd                    |
 
 |                이정훈                 |                      이제성                      |              김슬기               |
