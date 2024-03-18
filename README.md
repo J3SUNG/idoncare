@@ -1,7 +1,7 @@
 # 아이돈케어 (IDonCare)
 
 <div align="center">
-<img width="329" alt="image" src="[https://github.com/wlgns1718/idoncare/assets/113763592/0681f879-0864-481d-8c88-2df24c8cc3bc](https://github.com/Yeon-seok/IDonCare/assets/56334468/6b5f905e-ea5d-4bf7-8ac5-eb4b5695f4c0)">
+<img width="329" alt="image" src="https://github.com/Yeon-seok/IDonCare/assets/56334468/6b5f905e-ea5d-4bf7-8ac5-eb4b5695f4c0">
 
 </div>
 <div align="center">
@@ -138,8 +138,9 @@ https://youtu.be/xHrlpX0-5OM
 
 ---
 
-## 아키텍쳐
-![Alt text](image.png)
+## 시스템 아키텍처
+![system drawio (1)](https://github.com/wlgns1718/idoncare/assets/113763592/59186691-9662-45d9-817b-a07874001420)
+
 
 ## 디렉토리 구조
 
